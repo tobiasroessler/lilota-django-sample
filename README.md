@@ -1,0 +1,1 @@
+# lilota-django-sample
